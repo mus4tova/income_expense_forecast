@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Task/src/mlruns/0/3745e40865ed4921a9602a4aa64cc39b/artifacts
+end_time: 1738536999659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3745e40865ed4921a9602a4aa64cc39b
+run_name: industrious-mole-375
+run_uuid: 3745e40865ed4921a9602a4aa64cc39b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738536993569
+status: 3
+tags: []
+user_id: natali

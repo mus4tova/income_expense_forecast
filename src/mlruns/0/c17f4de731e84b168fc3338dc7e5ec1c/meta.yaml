@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Task/src/mlruns/0/c17f4de731e84b168fc3338dc7e5ec1c/artifacts
+end_time: 1738540566768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c17f4de731e84b168fc3338dc7e5ec1c
+run_name: languid-boar-298
+run_uuid: c17f4de731e84b168fc3338dc7e5ec1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738540549103
+status: 3
+tags: []
+user_id: natali

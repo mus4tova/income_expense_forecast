@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Task/src/mlruns/0/7964de487c124332811d339fc06eb66c/artifacts
+end_time: 1738541559088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7964de487c124332811d339fc06eb66c
+run_name: zealous-trout-369
+run_uuid: 7964de487c124332811d339fc06eb66c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738541523344
+status: 3
+tags: []
+user_id: natali

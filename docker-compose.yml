@@ -1,0 +1,49 @@
+services:
+  train:
+    build: .
+    restart: 'no'
+    volumes:
+      - /opt/fraud-detection/models/:/fraud-detection/models
+    command: python src/main.py --train
+
+  predict:
+    build: .
+    restart: 'no'
+    volumes:
+      - /opt/fraud-detection/predictions/:/fraud-detection/predictions
+    command: python src/main.py --predict
+
+
+services:
+  income:
+    build: .
+    restart: 'no'
+    volumes:
+      - ./models:/ds_task/models
+      - ./data:/ds_task/data
+      - ./predictions:/ds_task/predictions
+      - ./storage:/ds_task/storage
+      - ./src:/ds_task/src
+    command: python src/main.py --income
+
+  outcome:
+    build: .
+    restart: 'no'
+    volumes:
+      - ./models:/ds_task/models
+      - ./data:/ds_task/data
+      - ./predictions:/ds_task/predictions
+      - ./storage:/ds_task/storage
+      - ./src:/ds_task/src
+    command: python src/main.py --outcome
+
+  difference:
+    build: .
+    restart: 'no'
+    volumes:
+      - ./models:/ds_task/models
+      - ./data:/ds_task/data
+      - ./predictions:/ds_task/predictions
+      - ./storage:/ds_task/storage
+      - ./src:/ds_task/src
+    command: python src/main.py --difference

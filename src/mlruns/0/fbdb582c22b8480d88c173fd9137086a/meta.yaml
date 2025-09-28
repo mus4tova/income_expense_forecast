@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Task/src/mlruns/0/fbdb582c22b8480d88c173fd9137086a/artifacts
+end_time: 1738541350305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbdb582c22b8480d88c173fd9137086a
+run_name: incongruous-doe-310
+run_uuid: fbdb582c22b8480d88c173fd9137086a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738541303579
+status: 4
+tags: []
+user_id: natali

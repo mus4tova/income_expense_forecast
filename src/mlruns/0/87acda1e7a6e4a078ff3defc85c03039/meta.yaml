@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Task/src/mlruns/0/87acda1e7a6e4a078ff3defc85c03039/artifacts
+end_time: 1738536727142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87acda1e7a6e4a078ff3defc85c03039
+run_name: salty-duck-928
+run_uuid: 87acda1e7a6e4a078ff3defc85c03039
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738536727052
+status: 4
+tags: []
+user_id: natali

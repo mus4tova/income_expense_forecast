@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Task/src/mlruns/0/24aae3057e2c4b39a5fd0c00dff9538f/artifacts
+end_time: 1738539977155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24aae3057e2c4b39a5fd0c00dff9538f
+run_name: placid-vole-902
+run_uuid: 24aae3057e2c4b39a5fd0c00dff9538f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738539970207
+status: 4
+tags: []
+user_id: natali

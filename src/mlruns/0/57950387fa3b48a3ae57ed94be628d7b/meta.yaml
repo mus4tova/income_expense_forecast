@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Task/src/mlruns/0/57950387fa3b48a3ae57ed94be628d7b/artifacts
+end_time: 1738537040568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57950387fa3b48a3ae57ed94be628d7b
+run_name: capable-horse-358
+run_uuid: 57950387fa3b48a3ae57ed94be628d7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738537034009
+status: 3
+tags: []
+user_id: natali

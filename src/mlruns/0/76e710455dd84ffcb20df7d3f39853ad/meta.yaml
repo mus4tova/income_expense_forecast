@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Task/src/mlruns/0/76e710455dd84ffcb20df7d3f39853ad/artifacts
+end_time: 1738542027134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76e710455dd84ffcb20df7d3f39853ad
+run_name: casual-frog-151
+run_uuid: 76e710455dd84ffcb20df7d3f39853ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738542022613
+status: 4
+tags: []
+user_id: natali

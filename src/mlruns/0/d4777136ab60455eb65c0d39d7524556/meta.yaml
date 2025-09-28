@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Task/src/mlruns/0/d4777136ab60455eb65c0d39d7524556/artifacts
+end_time: 1738540366240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4777136ab60455eb65c0d39d7524556
+run_name: rare-fox-217
+run_uuid: d4777136ab60455eb65c0d39d7524556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738540357760
+status: 4
+tags: []
+user_id: natali

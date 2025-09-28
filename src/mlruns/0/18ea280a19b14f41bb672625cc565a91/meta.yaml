@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Task/src/mlruns/0/18ea280a19b14f41bb672625cc565a91/artifacts
+end_time: 1738536938654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18ea280a19b14f41bb672625cc565a91
+run_name: big-cub-123
+run_uuid: 18ea280a19b14f41bb672625cc565a91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738536937332
+status: 4
+tags: []
+user_id: natali

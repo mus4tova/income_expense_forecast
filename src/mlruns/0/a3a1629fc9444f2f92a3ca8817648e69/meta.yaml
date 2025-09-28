@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Task/src/mlruns/0/a3a1629fc9444f2f92a3ca8817648e69/artifacts
+end_time: 1738540255308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3a1629fc9444f2f92a3ca8817648e69
+run_name: beautiful-hen-443
+run_uuid: a3a1629fc9444f2f92a3ca8817648e69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738540248871
+status: 4
+tags: []
+user_id: natali

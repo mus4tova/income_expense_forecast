@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Task/src/mlruns/0/59ed3c80987347ee8d4a27712675f1e0/artifacts
+end_time: 1738540433234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59ed3c80987347ee8d4a27712675f1e0
+run_name: useful-finch-732
+run_uuid: 59ed3c80987347ee8d4a27712675f1e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738540426212
+status: 4
+tags: []
+user_id: natali

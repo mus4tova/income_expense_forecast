@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science%20Task/src/mlruns/0/51befd9c479d429bb78e0b4059bd3113/artifacts
+end_time: 1738537101827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51befd9c479d429bb78e0b4059bd3113
+run_name: melodic-chimp-944
+run_uuid: 51befd9c479d429bb78e0b4059bd3113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738537093813
+status: 3
+tags: []
+user_id: natali

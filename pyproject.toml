@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "my_docker_project"
+version = "0.1.0"
+description = ""
+authors = ["Natasha Musatova <natali.schimpl@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+loguru = "^0.7.3"
+catboost = "^1.2.7"
+numpy = "1.24.3"
+pandas = "^2.2.3"
+scikit-learn = "^1.6.1"
+joblib = "^1.4.2"
+optuna = "^4.2.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
